@@ -1,4 +1,4 @@
-package com.mybtecode.itunes.models;
+package com.example.itunes.models;
 
 import java.util.ArrayList;
 

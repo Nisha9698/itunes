@@ -1,4 +1,4 @@
-package com.mybtecode.itunes;
+package com.example.itunes;
 
 import org.junit.Test;
 

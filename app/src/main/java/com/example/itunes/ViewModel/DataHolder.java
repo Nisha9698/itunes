@@ -1,4 +1,4 @@
-package com.mybtecode.itunes.ViewModel;
+package com.example.itunes.ViewModel;
 
 import androidx.lifecycle.ViewModel;
 

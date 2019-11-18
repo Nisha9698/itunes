@@ -1,4 +1,4 @@
-package com.mybtecode.itunes.fragments;
+package com.example.itunes.fragments;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -17,13 +17,14 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.mybtecode.itunes.R;
-import com.mybtecode.itunes.ViewModel.DataHolder;
+import com.example.itunes.R;
+import com.example.itunes.ViewModel.DataHolder;
 
 import java.util.Objects;
 
 public class SearchFragment extends Fragment
 {
+
     private String query;
     private Button searchButton;
     private EditText searchTearm;
@@ -39,8 +40,6 @@ public class SearchFragment extends Fragment
 
         return view;
     }
-
-
 
     private void searchClick()
     {

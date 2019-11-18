@@ -1,4 +1,4 @@
-package com.mybtecode.itunes;
+package com.example.itunes;
 
 import android.os.Bundle;
 
@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.mybtecode.itunes.fragments.SearchFragment;
+import com.example.itunes.fragments.SearchFragment;
 
 public class MainActivity extends AppCompatActivity  {
 

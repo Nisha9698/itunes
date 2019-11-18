@@ -1,6 +1,6 @@
-package com.mybtecode.itunes.interfaces;
+package com.example.itunes.interfaces;
 
-import com.mybtecode.itunes.models.DataModel;
+import com.example.itunes.models.DataModel;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

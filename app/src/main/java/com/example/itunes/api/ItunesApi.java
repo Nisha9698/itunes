@@ -1,4 +1,4 @@
-package com.mybtecode.itunes.api;
+package com.example.itunes.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
